@@ -27,5 +27,7 @@ def sortdict(dict):
 a = input()
 ans = countfreq(a)
 ans = sortdict(ans)
+file = open('answer.txt', 'w', encoding='utf-8')
 for i, j in ans.items():
-    print(i, ':', j)
+    file.write(''.join([str(i), ':', str(j),'\n']))
+file.close()
