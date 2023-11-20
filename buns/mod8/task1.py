@@ -62,7 +62,7 @@ class Transport():
         length, width - длина и ширина области
         '''
         if (pos_x <= self.coordinates[0] <= pos_x + length and
-            pos_y <= self.coordinates[1] <= pos_y + width):
+            pos_y - width <= self.coordinates[1] <= pos_y):
             return True
         else:
             return False
@@ -250,10 +250,10 @@ classprint(h)
 i = CargoAuto([5.0, 10.0], 90, "Shipland", 1985, 2, True)
 classprint(i)
 
-j = Boat("№5", [5.0, 10.0], 90, "Shipland", 1985, 2)
+j = Boat("№5", [5.0, -5.0], 90, "Shipland", 1985, 2)
 classprint(j)
 print("{} находится в области, задающейся (pos_x: {}, pos_y: {}, length: {}, width: {}): {}".
-      format(j.__class__.__name__, 0, 0, 10, 10, j.isInArea(0, 0, 10, 10)))
+      format(j.__class__.__name__, 0, 0, 5, 10, j.isInArea(0, 0, 5, 10)))
 print()
 
 k = PassengerShip("№5", [5.0, 10.0], 90, "Shipland", 1985, 2, 15, 10)
@@ -262,9 +262,9 @@ classprint(k)
 l = CargoShip("№5", [5.0, 10.0], 90, "Shipland", 1985, 2, True)
 classprint(l)
 
-m = Seaplane(1000, "№5", [5.0, 10.0], 90, "Shipland", 1985, 2)
+m = Seaplane(1000, "№5", [5.0, -5.0], 90, "Shipland", 1985, 2)
 classprint(m)
 print("{} находится в области, задающейся (pos_x: {}, pos_y: {}, length: {}, width: {}): {}".
-      format(m.__class__.__name__, 0, 0, 10, 10, m.isInArea(0, 0, 10, 10)))
+      format(m.__class__.__name__, 0, 0, 5, 10, m.isInArea(0, 0, 5, 10)))
 print("{} находится в области, задающейся (pos_x: {}, pos_y: {}, length: {}, width: {}): {}".
-      format(m.__class__.__name__, 0, 0, 5, 5, m.isInArea(0, 0, 5, 5)))
+      format(m.__class__.__name__, 0, 0, 5, 4, m.isInArea(0, 0, 5, 4)))
