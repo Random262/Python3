@@ -2,12 +2,12 @@ import requests
 import json
 from collections import OrderedDict
 
-my_req = requests.get('https://swapi.dev/api/starships/10/')
-ship_data = json.loads(my_req.text, object_pairs_hook=OrderedDict)
+ship_req = requests.get('https://swapi.dev/api/starships/10/')
+ship_data = json.loads(ship_req.text, object_pairs_hook=OrderedDict)
 ship_data["ship_name"] = ship_data["name"]
 
-lib = ["ship_name", "starship_class", "max_atmosphering_speed", "pilots"]
-falcon = OrderedDict((key, ship_data[key]) for key in lib)
+ship_lib = ["ship_name", "starship_class", "max_atmosphering_speed", "pilots"]
+falcon = OrderedDict((key, ship_data[key]) for key in ship_lib)
 
 pilot_lib = ["name", "height", "mass", "homeworld", "homeworld_url"]
 pilots = []
