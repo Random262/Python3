@@ -1,0 +1,36 @@
+DEBUG | app | 2024-03-31 17:56:13,373 | 52 | Getting command from user
+DEBUG | app | 2024-03-31 17:56:15,673 | 58 | Processing command
+DEBUG | app | 2024-03-31 17:56:15,673 | 69 | Getting result
+DEBUG | app | 2024-03-31 17:56:15,673 | 79 | Giving result to user
+DEBUG | app | 2024-03-31 17:56:15,674 | 52 | Getting command from user
+DEBUG | app | 2024-03-31 17:56:18,078 | 58 | Processing command
+DEBUG | app | 2024-03-31 17:56:18,078 | 69 | Getting result
+DEBUG | app | 2024-03-31 17:56:18,079 | 79 | Giving result to user
+DEBUG | app | 2024-03-31 17:56:18,079 | 52 | Getting command from user
+DEBUG | app | 2024-03-31 17:56:19,282 | 58 | Processing command
+DEBUG | app | 2024-03-31 17:56:19,282 | 69 | Getting result
+DEBUG | app | 2024-03-31 17:56:19,282 | 79 | Giving result to user
+DEBUG | app | 2024-03-31 17:56:19,282 | 52 | Getting command from user
+INFO | app | 2024-03-31 18:30:40,695 | 45 | Commands list
+INFO | app | 2024-03-31 18:30:40,701 | 46 | Доступные команды:
+"+" - сложение
+"-" - вычитание
+"*" - умножение
+"/" - деление
+"^" - возведение в степень
+
+DEBUG | app | 2024-03-31 18:30:40,701 | 55 | Getting command from user
+DEBUG | app | 2024-03-31 18:30:43,208 | 61 | Processing command
+DEBUG | app | 2024-03-31 18:30:43,208 | 72 | Getting result
+DEBUG | app | 2024-03-31 18:30:43,208 | 82 | Giving result to user
+DEBUG | app | 2024-03-31 18:30:43,208 | 55 | Getting command from user
+DEBUG | app | 2024-03-31 18:30:44,343 | 61 | Processing command
+DEBUG | app | 2024-03-31 18:30:44,343 | 72 | Getting result
+ERROR | app | 2024-03-31 18:30:44,344 | 74 | Incorrect input
+DEBUG | app | 2024-03-31 18:30:44,353 | 82 | Giving result to user
+DEBUG | app | 2024-03-31 18:30:44,353 | 55 | Getting command from user
+DEBUG | app | 2024-03-31 18:30:46,519 | 61 | Processing command
+DEBUG | app | 2024-03-31 18:30:46,519 | 72 | Getting result
+ERROR | app | 2024-03-31 18:30:46,519 | 74 | Incorrect input
+DEBUG | app | 2024-03-31 18:30:46,519 | 82 | Giving result to user
+DEBUG | app | 2024-03-31 18:30:46,519 | 55 | Getting command from user

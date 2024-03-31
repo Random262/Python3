@@ -1,0 +1,127 @@
+INFO | app | 2024-03-31 18:45:23,775 | 45 | Commands list
+INFO | app | 2024-03-31 18:45:23,775 | 46 | Доступные команды:
+"+" - сложение
+"-" - вычитание
+"*" - умножение
+"/" - деление
+"^" - возведение в степень
+
+DEBUG | app | 2024-03-31 18:45:23,775 | 55 | Getting command from user
+DEBUG | app | 2024-03-31 18:45:27,199 | 61 | Processing command
+DEBUG | app | 2024-03-31 18:45:27,199 | 72 | Getting result
+ERROR | app | 2024-03-31 18:45:27,199 | 74 | Incorrect input
+DEBUG | app | 2024-03-31 18:45:27,199 | 82 | Giving result to user
+DEBUG | app | 2024-03-31 18:45:27,199 | 55 | Getting command from user
+DEBUG | app | 2024-03-31 18:45:30,640 | 61 | Processing command
+DEBUG | app | 2024-03-31 18:45:30,641 | 72 | Getting result
+ERROR | app | 2024-03-31 18:45:30,641 | 74 | Incorrect input
+DEBUG | app | 2024-03-31 18:45:30,641 | 82 | Giving result to user
+DEBUG | app | 2024-03-31 18:45:30,641 | 55 | Getting command from user
+DEBUG | app | 2024-03-31 18:45:33,927 | 61 | Processing command
+DEBUG | app | 2024-03-31 18:45:33,927 | 72 | Getting result
+ERROR | app | 2024-03-31 18:45:33,927 | 74 | Incorrect input
+DEBUG | app | 2024-03-31 18:45:33,927 | 82 | Giving result to user
+DEBUG | app | 2024-03-31 18:45:33,927 | 55 | Getting command from user
+INFO | app | 2024-03-31 18:47:33,467 | 45 | Commands list
+INFO | app | 2024-03-31 18:47:33,467 | 46 | Доступные команды:
+"+" - сложение
+"-" - вычитание
+"*" - умножение
+"/" - деление
+"^" - возведение в степень
+
+DEBUG | app | 2024-03-31 18:47:33,467 | 55 | Getting command from user
+DEBUG | app | 2024-03-31 18:47:37,999 | 61 | Processing command
+DEBUG | app | 2024-03-31 18:47:37,999 | 72 | Getting result
+DEBUG | app | 2024-03-31 18:47:37,999 | 82 | Giving result to user
+DEBUG | app | 2024-03-31 18:47:37,999 | 55 | Getting command from user
+DEBUG | app | 2024-03-31 18:47:40,260 | 61 | Processing command
+DEBUG | app | 2024-03-31 18:47:40,260 | 72 | Getting result
+ERROR | app | 2024-03-31 18:47:40,260 | 74 | Incorrect input
+DEBUG | app | 2024-03-31 18:47:40,260 | 82 | Giving result to user
+DEBUG | app | 2024-03-31 18:47:40,260 | 55 | Getting command from user
+DEBUG | app | 2024-03-31 18:47:41,763 | 61 | Processing command
+DEBUG | app | 2024-03-31 18:47:41,763 | 72 | Getting result
+ERROR | app | 2024-03-31 18:47:41,763 | 74 | Incorrect input
+DEBUG | app | 2024-03-31 18:47:41,763 | 82 | Giving result to user
+DEBUG | app | 2024-03-31 18:47:41,764 | 55 | Getting command from user
+DEBUG | app | 2024-03-31 18:48:44,190 | 61 | Processing command
+DEBUG | app | 2024-03-31 18:48:44,190 | 72 | Getting result
+DEBUG | app | 2024-03-31 18:48:44,190 | 82 | Giving result to user
+DEBUG | app | 2024-03-31 18:48:44,190 | 55 | Getting command from user
+DEBUG | app | 2024-03-31 18:48:45,976 | 61 | Processing command
+DEBUG | app | 2024-03-31 18:48:45,976 | 72 | Getting result
+DEBUG | app | 2024-03-31 18:48:45,977 | 82 | Giving result to user
+DEBUG | app | 2024-03-31 18:48:45,977 | 55 | Getting command from user
+INFO | app | 2024-03-31 18:49:05,689 | 45 | Commands list
+INFO | app | 2024-03-31 18:49:05,689 | 46 | Доступные команды:
+"+" - сложение
+"-" - вычитание
+"*" - умножение
+"/" - деление
+"^" - возведение в степень
+
+DEBUG | app | 2024-03-31 18:49:05,689 | 55 | Getting command from user
+INFO | app | 2024-03-31 18:49:10,941 | 45 | Commands list
+INFO | app | 2024-03-31 18:49:10,941 | 46 | Доступные команды:
+"+" - сложение
+"-" - вычитание
+"*" - умножение
+"/" - деление
+"^" - возведение в степень
+
+DEBUG | app | 2024-03-31 18:49:10,941 | 55 | Getting command from user
+DEBUG | app | 2024-03-31 18:49:13,487 | 61 | Processing command
+DEBUG | app | 2024-03-31 18:49:13,488 | 72 | Getting result
+DEBUG | app | 2024-03-31 18:49:13,488 | 82 | Giving result to user
+DEBUG | app | 2024-03-31 18:49:13,488 | 55 | Getting command from user
+DEBUG | app | 2024-03-31 18:49:24,247 | 61 | Processing command
+DEBUG | app | 2024-03-31 18:49:24,247 | 72 | Getting result
+DEBUG | app | 2024-03-31 18:49:24,247 | 82 | Giving result to user
+DEBUG | app | 2024-03-31 18:49:24,247 | 55 | Getting command from user
+DEBUG | app | 2024-03-31 18:49:26,153 | 61 | Processing command
+DEBUG | app | 2024-03-31 18:49:26,154 | 72 | Getting result
+DEBUG | app | 2024-03-31 18:49:26,154 | 82 | Giving result to user
+DEBUG | app | 2024-03-31 18:49:26,154 | 55 | Getting command from user
+DEBUG | app | 2024-03-31 18:49:38,671 | 61 | Processing command
+DEBUG | app | 2024-03-31 18:49:38,671 | 72 | Getting result
+DEBUG | app | 2024-03-31 18:49:38,672 | 82 | Giving result to user
+DEBUG | app | 2024-03-31 18:49:38,672 | 55 | Getting command from user
+DEBUG | app | 2024-03-31 18:50:23,166 | 61 | Processing command
+DEBUG | app | 2024-03-31 18:50:23,166 | 72 | Getting result
+DEBUG | app | 2024-03-31 18:50:23,166 | 82 | Giving result to user
+DEBUG | app | 2024-03-31 18:50:23,166 | 55 | Getting command from user
+INFO | app | 2024-03-31 18:50:35,300 | 45 | Commands list
+INFO | app | 2024-03-31 18:50:35,300 | 46 | Доступные команды:
+"+" - сложение
+"-" - вычитание
+"*" - умножение
+"/" - деление
+"^" - возведение в степень
+
+DEBUG | app | 2024-03-31 18:50:35,300 | 55 | Getting command from user
+DEBUG | app | 2024-03-31 18:50:40,642 | 61 | Processing command
+DEBUG | app | 2024-03-31 18:50:40,642 | 72 | Getting result
+DEBUG | app | 2024-03-31 18:50:40,642 | 82 | Giving result to user
+DEBUG | app | 2024-03-31 18:50:40,642 | 55 | Getting command from user
+INFO | app | 2024-03-31 18:55:43,323 | 49 | Commands list
+INFO | app | 2024-03-31 18:55:43,324 | 50 | Доступные команды:
+"+" - сложение
+"-" - вычитание
+"*" - умножение
+"/" - деление
+"^" - возведение в степень
+
+INFO | app | 2024-03-31 18:58:13,438 | 49 | Commands list
+INFO | app | 2024-03-31 18:58:13,438 | 50 | Доступные команды:
+"+" - сложение
+"-" - вычитание
+"*" - умножение
+"/" - деление
+"^" - возведение в степень
+
+DEBUG | app | 2024-03-31 18:58:13,438 | 59 | Getting command from user
+DEBUG | app | 2024-03-31 18:58:17,387 | 65 | Processing command
+DEBUG | app | 2024-03-31 18:58:17,387 | 76 | Getting result
+DEBUG | app | 2024-03-31 18:58:17,396 | 86 | Giving result to user
+DEBUG | app | 2024-03-31 18:58:17,396 | 59 | Getting command from user

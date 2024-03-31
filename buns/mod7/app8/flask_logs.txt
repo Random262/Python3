@@ -1,0 +1,54 @@
+INFO | utils | 2024-03-31 20:16:36,627 | * with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:16:36,637 | Multiplication: 25.0
+INFO | utils | 2024-03-31 20:16:38,368 | + with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:16:38,372 | Addition: 10.0
+INFO | app | 2024-03-31 20:16:56,706 | Commands list
+INFO | app | 2024-03-31 20:16:56,741 | Доступные команды:
+"+" - сложение
+"-" - вычитание
+"*" - умножение
+"/" - деление
+"^" - возведение в степень
+
+INFO | app | 2024-03-31 20:16:56,758 | ©
+INFO | utils | 2024-03-31 20:16:59,602 | + with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:16:59,608 | Addition: 10.0
+ERROR | app | 2024-03-31 20:17:00,882 | Incorrect input
+INFO | app | 2024-03-31 20:18:06,083 | Commands list
+INFO | app | 2024-03-31 20:18:06,116 | Доступные команды:
+"+" - сложение
+"-" - вычитание
+"*" - умножение
+"/" - деление
+"^" - возведение в степень
+
+INFO | app | 2024-03-31 20:18:06,119 | ©
+DEBUG | app | 2024-03-31 20:18:06,120 | Getting command from user
+DEBUG | app | 2024-03-31 20:18:08,427 | Processing command
+DEBUG | app | 2024-03-31 20:18:08,430 | Getting result
+INFO | utils | 2024-03-31 20:18:08,435 | + with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:18:08,442 | Addition: 10.0
+DEBUG | app | 2024-03-31 20:18:08,443 | Giving result to user
+DEBUG | app | 2024-03-31 20:18:08,444 | Getting command from user
+DEBUG | app | 2024-03-31 20:18:10,493 | Processing command
+DEBUG | app | 2024-03-31 20:18:10,495 | Getting result
+INFO | utils | 2024-03-31 20:18:10,497 | * with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:18:10,499 | Multiplication: 25.0
+DEBUG | app | 2024-03-31 20:18:10,503 | Giving result to user
+DEBUG | app | 2024-03-31 20:18:10,517 | Getting command from user
+DEBUG | app | 2024-03-31 20:19:59,277 | Processing command
+DEBUG | app | 2024-03-31 20:19:59,281 | Getting result
+INFO | utils | 2024-03-31 20:19:59,283 | * with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:19:59,291 | Multiplication: 25.0
+DEBUG | app | 2024-03-31 20:19:59,300 | Giving result to user
+DEBUG | app | 2024-03-31 20:19:59,314 | Getting command from user
+DEBUG | app | 2024-03-31 20:20:01,200 | Processing command
+DEBUG | app | 2024-03-31 20:20:01,204 | Getting result
+ERROR | app | 2024-03-31 20:20:01,210 | Incorrect input
+DEBUG | app | 2024-03-31 20:20:01,216 | Giving result to user
+DEBUG | app | 2024-03-31 20:20:01,219 | Getting command from user
+DEBUG | app | 2024-03-31 20:20:01,789 | Processing command
+DEBUG | app | 2024-03-31 20:20:01,792 | Getting result
+ERROR | app | 2024-03-31 20:20:01,793 | Incorrect input
+DEBUG | app | 2024-03-31 20:20:01,795 | Giving result to user
+DEBUG | app | 2024-03-31 20:20:01,796 | Getting command from user

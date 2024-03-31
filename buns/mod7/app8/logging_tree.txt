@@ -1,0 +1,35 @@
+<--""
+   Level WARNING
+   |
+   o   "app"
+   |   Level DEBUG
+   |   Propagate OFF
+   |   Handler Stream <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+   |     Level DEBUG
+   |     Filter <logging_config8.AsciiFilter object at 0x71b84a36e0e0>
+   |     Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)d | %(message)s' datefmt=None
+   |   Handler File '/home/user/workspace/module7/app8/calc_debug.log'
+   |     Level DEBUG
+   |     Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)d | %(message)s' datefmt=None
+   |   Handler File '/home/user/workspace/module7/app8/calc_info.log'
+   |     Level INFO
+   |     Filter <logging_config8.AsciiFilter object at 0x71b84a36e0e0>
+   |     Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)d | %(message)s' datefmt=None
+   |   Handler File '/home/user/workspace/module7/app8/calc_error.log'
+   |     Level ERROR
+   |     Filter <logging_config8.AsciiFilter object at 0x71b84a36e0e0>
+   |     Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)d | %(message)s' datefmt=None
+   |   Handler HTTP POST to http://127.0.0.1:3000//log
+   |     Level DEBUG
+   |     Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)d | %(message)s' datefmt=None
+   |
+   o   "utils"
+       Level INFO
+       Propagate OFF
+       Handler TimedRotatingFile '/home/user/workspace/module7/app8/utils.log' when='H' interval=36000 backupCount=1
+         Level INFO
+         Filter <logging_config8.AsciiFilter object at 0x71b84a36e0e0>
+         Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)d | %(message)s' datefmt=None
+       Handler HTTP POST to http://127.0.0.1:3000//log
+         Level DEBUG
+         Formatter fmt='%(levelname)s | %(name)s | %(asctime)s | %(lineno)d | %(message)s' datefmt=None

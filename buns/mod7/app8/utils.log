@@ -1,0 +1,68 @@
+INFO | utils | 2024-03-31 19:26:31,718 | 11 | * with 5.0 and 5.0
+INFO | utils | 2024-03-31 19:26:31,718 | 40 | Multiplication: 25.0
+INFO | utils | 2024-03-31 19:26:34,098 | 11 | + with 5.0 and 5.0
+INFO | utils | 2024-03-31 19:26:34,098 | 28 | Addition: 10.0
+INFO | utils | 2024-03-31 19:27:01,417 | 11 | + with 5.0 and 5.0
+INFO | utils | 2024-03-31 19:27:01,417 | 28 | Addition: 10.0
+INFO | utils | 2024-03-31 19:29:15,818 | 11 | * with 5.0 and 5.0
+INFO | utils | 2024-03-31 19:29:15,819 | 40 | Multiplication: 25.0
+INFO | utils | 2024-03-31 19:29:17,723 | 11 | + with 5.0 and 5.0
+INFO | utils | 2024-03-31 19:29:17,724 | 28 | Addition: 10.0
+INFO | utils | 2024-03-31 19:30:37,706 | 11 | * with 5.0 and 5.0
+INFO | utils | 2024-03-31 19:30:37,706 | 40 | Multiplication: 25.0
+INFO | utils | 2024-03-31 19:51:22,471 | 11 | * with 5.0 and 5.0
+INFO | utils | 2024-03-31 19:51:22,472 | 40 | Multiplication: 25.0
+INFO | utils | 2024-03-31 19:51:24,370 | 11 | + with 5.0 and 5.0
+INFO | utils | 2024-03-31 19:51:24,371 | 28 | Addition: 10.0
+INFO | utils | 2024-03-31 19:52:11,849 | 11 | + with 5.0 and 5.0
+INFO | utils | 2024-03-31 19:52:11,852 | 28 | Addition: 10.0
+INFO | utils | 2024-03-31 19:57:21,967 | 11 | * with 5.0 and 5.0
+INFO | utils | 2024-03-31 19:57:21,967 | 40 | Multiplication: 25.0
+INFO | utils | 2024-03-31 19:57:34,933 | 11 | + with 5.0 and 5.0
+INFO | utils | 2024-03-31 19:57:34,933 | 28 | Addition: 10.0
+INFO | utils | 2024-03-31 19:57:37,084 | 11 | * with 5.0 and 5.0
+INFO | utils | 2024-03-31 19:57:37,084 | 40 | Multiplication: 25.0
+INFO | utils | 2024-03-31 20:01:56,822 | 11 | + with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:01:56,822 | 28 | Addition: 10.0
+INFO | utils | 2024-03-31 20:03:09,341 | 11 | + with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:03:09,341 | 28 | Addition: 10.0
+INFO | utils | 2024-03-31 20:03:12,812 | 11 | * with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:03:12,812 | 40 | Multiplication: 25.0
+INFO | utils | 2024-03-31 20:04:00,680 | 11 | * with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:04:00,681 | 40 | Multiplication: 25.0
+INFO | utils | 2024-03-31 20:04:04,001 | 11 | + with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:04:04,001 | 28 | Addition: 10.0
+INFO | utils | 2024-03-31 20:07:05,134 | 11 | * with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:07:05,159 | 40 | Multiplication: 25.0
+INFO | utils | 2024-03-31 20:07:06,970 | 11 | + with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:07:06,973 | 28 | Addition: 10.0
+INFO | utils | 2024-03-31 20:10:14,759 | 11 | * with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:10:14,764 | 40 | Multiplication: 25.0
+INFO | utils | 2024-03-31 20:10:16,788 | 11 | + with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:10:16,794 | 28 | Addition: 10.0
+INFO | utils | 2024-03-31 20:11:00,398 | 11 | + with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:11:00,423 | 28 | Addition: 10.0
+INFO | utils | 2024-03-31 20:11:02,510 | 11 | / with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:11:02,525 | 46 | Division: 1.0
+INFO | utils | 2024-03-31 20:15:16,863 | 11 | * with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:15:16,876 | 40 | Multiplication: 25.0
+INFO | utils | 2024-03-31 20:15:18,690 | 11 | + with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:15:18,695 | 28 | Addition: 10.0
+INFO | utils | 2024-03-31 20:15:20,942 | 11 | / with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:15:20,946 | 46 | Division: 1.0
+INFO | utils | 2024-03-31 20:16:12,758 | 11 | * with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:16:12,765 | 40 | Multiplication: 25.0
+INFO | utils | 2024-03-31 20:16:14,241 | 11 | + with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:16:14,244 | 28 | Addition: 10.0
+INFO | utils | 2024-03-31 20:16:36,627 | 11 | * with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:16:36,637 | 40 | Multiplication: 25.0
+INFO | utils | 2024-03-31 20:16:38,368 | 11 | + with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:16:38,372 | 28 | Addition: 10.0
+INFO | utils | 2024-03-31 20:16:59,602 | 11 | + with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:16:59,608 | 28 | Addition: 10.0
+INFO | utils | 2024-03-31 20:18:08,435 | 11 | + with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:18:08,442 | 28 | Addition: 10.0
+INFO | utils | 2024-03-31 20:18:10,497 | 11 | * with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:18:10,499 | 40 | Multiplication: 25.0
+INFO | utils | 2024-03-31 20:19:59,283 | 11 | * with 5.0 and 5.0
+INFO | utils | 2024-03-31 20:19:59,291 | 40 | Multiplication: 25.0
