@@ -1,3 +1,4 @@
+# service.py
 import sqlite3
 
 DB_FILE = 'hotel.db'
@@ -36,7 +37,7 @@ def book_room(room_id):
         cur.execute('''SELECT * FROM rooms WHERE roomId=?''', (room_id,))
         room = cur.fetchone()
         if room is None:
-            return False  # Возвращаем False если комната не найдена
+            return False
         cur.execute('''DELETE FROM rooms WHERE roomId=?''', (room_id,))
         conn.commit()
         return True

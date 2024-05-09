@@ -1,5 +1,5 @@
+# model.py
 import sqlite3
-
 DB_FILE = 'hotel.db'
 
 
@@ -32,4 +32,3 @@ def initialize_database():
     for i in range(5):
         for room in rooms:
             create_room(room)
-
